@@ -1,4 +1,4 @@
-# curso-fronend
+# curso-frontend
 
 # Curso Front-end
 Aprenda o que é necessário para desenvolver interfaces para web.
